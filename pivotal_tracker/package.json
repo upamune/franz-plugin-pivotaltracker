@@ -1,0 +1,20 @@
+{
+  "name": "Pivotal Tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Yu Serizawa <jajkeqos@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://pivotaltracker.com",
+    "serviceName": "Pivotal Tracker",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
